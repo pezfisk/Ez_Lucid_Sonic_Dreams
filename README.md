@@ -1,4 +1,4 @@
-[Open in Colab](https://colab.research.google.com/drive/1ac6dwGUJGQ75YzfZmyNZ4KKncFdFyAV7)
+[Open in Colab](https://colab.research.google.com/drive/1XFCHAkJ9fC4PxxTEaPe2MBUlgpRXt5Vi)
 
 # Ez Lucid Sonic Dreams
 
